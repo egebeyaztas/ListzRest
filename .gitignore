@@ -1,0 +1,38 @@
+/.vscode
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Python
+
+*.py[cod] 
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments 
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+
+#general
+
+*.txt
+scrape/
+*.pkl
+*.csv
+Thumbs.db
+*.zip
