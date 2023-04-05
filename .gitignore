@@ -30,7 +30,7 @@ venv.bak/
 
 #general
 
-*.txt
+
 scrape/
 *.pkl
 *.csv
